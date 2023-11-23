@@ -39,7 +39,8 @@ FLOW CHART:
 
 BLOCK DIAGRAM:
 
-image
+![image](https://github.com/sourav22as/IOT-based-Medicine-remainder/assets/121729561/3b7eb122-1ff8-41fc-96fe-27a0e6a7bc8c)
+
 
 ALGORITHM:
 
