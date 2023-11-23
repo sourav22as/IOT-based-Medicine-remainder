@@ -44,7 +44,8 @@ BLOCK DIAGRAM:
 
 ALGORITHM:
 
-image
+![image](https://github.com/sourav22as/IOT-based-Medicine-remainder/assets/121729561/148b8259-dd83-42d7-bddc-df5d5f1749bc)
+
 
 CIRCUIT DIAGRAM:
 
