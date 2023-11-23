@@ -29,11 +29,12 @@ Automatic Time Adjustment: Utilize the RTC module's capability to automatically 
 
 MIND MAP:
 
-image
+![image](https://github.com/sourav22as/IOT-based-Medicine-remainder/assets/121729561/9de5813c-02ee-4a36-9671-a8c2618740ea)
+
 
 FLOW CHART:
 
-image
+
 
 BLOCK DIAGRAM:
 
