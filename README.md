@@ -33,6 +33,7 @@ MIND MAP:
 
 
 FLOW CHART:
+![image](https://github.com/sourav22as/IOT-based-Medicine-remainder/assets/121729561/b0d850c2-53fe-409a-bfab-fde5d11e2166)
 
 
 
