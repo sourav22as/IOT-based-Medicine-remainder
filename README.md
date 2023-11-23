@@ -49,7 +49,8 @@ ALGORITHM:
 
 CIRCUIT DIAGRAM:
 
-image
+![image](https://github.com/sourav22as/IOT-based-Medicine-remainder/assets/121729561/56585798-ff14-4755-aa7e-802aadbd085c)
+
 
 TECNICAL BLOG:
 
